@@ -1,0 +1,6 @@
+process.env.INPUT_OPENAI_BASE_URL = 'http://192.168.3.250:7896'
+process.env.INPUT_OPENAI_LIGHT_MODEL = 'deepseek-r1:1.5b'
+process.env.INPUT_OPENAI_HEAVY_MODEL = 'deepseek-r1:1.5b'
+process.env.INPUT_GITHUB_TOKEN = '1'
+process.env.OPENAI_API_KEY = '123'
+process.env.OPENAI_API_KEY = '123'
