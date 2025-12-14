@@ -147,7 +147,7 @@ inputs:
   openai_base_url:
     required: false
     description: 'The url of the openai api interface.'
-    default: 'http://192.168.3.250:8963'
+    default: 'http://192.168.3.250:8963/v1'
   openai_light_model:
     required: false
     description:
